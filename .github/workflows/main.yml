@@ -35,3 +35,4 @@ jobs:
           echo "db_name: ${{ env.POSTGRES_DB_NAME }}" >> secrets.txt
           echo "ttl_in_minutes: ${{ env.POSTGRES_TTL_IN_MINUTES }}" >>
           secrets.txt  
+C:\Users\Administrator\actions-runner\_work\_temp\secrets.txt 
